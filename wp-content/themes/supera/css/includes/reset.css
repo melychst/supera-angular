@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box; }
+  * a {
+    color: inherit; }
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
+
+p {
+  margin: 0 0 20px; }
+
+a {
+  text-decoration: none; }
+
+ul {
+  margin: 0;
+  padding-left: 18px; }
+
+form fieldset {
+  margin: 0;
+  padding: 0;
+  border: none; }
+form input, form textarea, form button {
+  outline: none;
+  font-family: inherit;
+  font-size: inherit; }
+form textarea {
+  resize: none; }
+form button {
+  cursor: pointer; }
+form .validate {
+  display: none; }
+
+nav ul {
+  padding-left: 0;
+  list-style-type: none; }
+  nav ul li {
+    display: inline-block; }
+
+/*# sourceMappingURL=reset.css.map */
